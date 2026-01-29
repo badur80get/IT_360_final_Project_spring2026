@@ -1,8 +1,9 @@
 Team Members
 
+    Badur Ibrahim
     Luke Gibson
     Christian Scott
-    Badur Ibrahim
+    
 
 Project Idea
 
